@@ -1,3 +1,6 @@
 webbeShoppe.code-workspace
 package-lock.json
 node_modules
+webbeShoppe/src/app
+webbeShoppe/src/assets
+webbeShoppe/src/environments
