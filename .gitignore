@@ -3,3 +3,14 @@ package-lock.json
 node_modules
 webbeShoppe/src/assets
 webbeShoppe/src/environments
+package.json
+webbeshoppe/.browserslistrc
+webbeshoppe/.editorconfig
+webbeshoppe/angular.json
+webbeshoppe/karma.conf.js
+webbeshoppe/tsconfig.app.json
+webbeshoppe/tsconfig.json
+webbeshoppe/tsconfig.spec.json
+webbeshoppe/src/polyfills.ts
+webbeshoppe/src/main.ts
+webbeshoppe/src/test.ts
